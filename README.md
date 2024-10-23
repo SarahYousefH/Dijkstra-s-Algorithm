@@ -1,5 +1,5 @@
 
-# 📍 Dijkstra's Shortest Path Finder 
+# 📍 Dijkstra's Shortest Path 
 
 ## 📌 Project Overview
 This project implements Dijkstra's algorithm to efficiently determine the shortest path between cities in the Gaza Strip. This application showcases the practical application of graph theory in solving real-world problems.
