@@ -1,0 +1,256 @@
+71 184
+Gaza,31.501695,34.466845,city
+Jabr,31.58,34.55,city
+Khan Yunis,31.3462,34.303999,city
+Rafah,31.29678,34.243482,city
+Jabalia,31.529396,34.479741,city
+Deir al Balah,31.417139,34.350931,city
+Beit Hanoun,31.538483,34.53677,city
+Beit Lahia,31.551289,34.509222,city
+Atatra,31.5596,34.48741,city
+Al Mughraqa,31.468303,34.417565,city
+Al Bureij,31.438786,34.40239,city
+Al Maghazi,31.421807,34.385416,city
+Az Zawayda,31.429763,34.370742,city
+Bani Suheila,31.342104,34.325254,city
+Juhor ad Dik,31.455305,34.438826,city
+Nuseirat Camp,31.449967,34.392909,city
+Al Qarara,31.371312,34.33526,city
+Abasan al-Kabira,31.323126,34.344025,city
+Khuza'a,31.307022,34.360047,city
+Al Fukhkhari,31.295228,34.333152,city
+Shokat as Sufi,31.250878,34.265767,city
+Wadi as Salqa,31.396843,34.365268,city
+Al Quba,31.4883,34.46584728,city
+Um an naser,31.564287,34.51917971,city
+An Nasr,31.2814,34.3025,city
+Al Mawasi,31.340645,34.25442,city
+Al Musaddar,31.415921,34.375304,city
+s1,31.548662,34.529024,joint
+s2,31.542956,34.514089,joint
+s3,31.547934,34.501114,joint
+s4,31.539525,34.482299,joint
+s5,31.547569,34.475175,joint
+s6,31.533379,34.472944,joint
+s7,31.539414,34.465133,joint
+salah1,31.528731,34.514366,joint
+salah2,31.52222,34.495655,joint
+s8,31.52083,34.442182,joint
+salah3,31.490973,34.452395,joint
+salah4,31.479628,34.442095,joint
+salah5,31.464992,34.426902,joint
+salah6,31.443392,34.397977,joint
+salah7,31.428893,34.37991,joint
+salah8,31.419119,34.37043,joint
+salah9,31.409832,34.360123,joint
+salah11,31.344128,34.314432,joint
+k1,31.343385,34.308138,joint
+salah12,31.337603,34.309797,joint
+salah13,31.298228,34.315719,joint
+salah14,31.279744,34.308595,joint
+salah16,31.267036,34.280933,joint
+rashid1,31.54629,34.45509,joint
+rashid2,31.527871,34.438015,joint
+rashid3,31.505773,34.417588,joint
+rashid4,31.502773,34.414755,joint
+rashid5,31.487258,34.400593,joint
+s9,31.47086,34.420334,joint
+rashid6,31.439099,34.35245,joint
+rashid7,31.425551,34.33863,joint
+rashid8,31.381888,34.289021,joint
+rashid9,31.345158,34.246414,joint
+rashid10,31.331523,34.230363,joint
+k2,31.333841,34.295865,joint
+k3,31.309644,34.28136,joint
+k4,31.314053,34.272013,joint
+k5,31.30925,34.258881,joint
+k6,31.325028,34.243141,joint
+k7,31.359335,34.274383,joint
+k8,31.375751,34.2967,joint
+k9,31.28868,34.263588,joint
+k10,31.278998,34.255691,joint
+salah15,31.269971,34.288915,joint
+Um an naser,s1,,
+s1,Um an naser,,
+Beit Hanoun,s1,,
+s1,Beit Hanoun,,
+s1,s2,,
+s2,s1,,
+s2,s3,,
+s3,s2,,
+Um an naser,Beit Lahia,,
+Beit Lahia,Um an naser,,
+Beit Lahia,s3,,
+s3,Beit Lahia,,
+Atatra,s3,,
+s3,Atatra,,
+salah1,s3,,
+s3,salah1,,
+Atatra,s5,,
+s5,Atatra,,
+s3,s4,,
+s4,s3,,
+s4,s5,,
+s5,s4,,
+s4,s6,,
+s6,s4,,
+s5,s7,,
+s7,s5,,
+s7,s6,,
+s6,s7,,
+salah1,salah2,,
+salah2,salah1,,
+s6,Jabalia,,
+Jabalia,s6,,
+salah2,Jabalia,,
+Jabalia,salah2,,
+s7,rashid1,,
+rashid1,s7,,
+rashid1,rashid2,,
+rashid2,rashid1,,
+rashid2,rashid3,,
+rashid3,rashid2,,
+rashid3,rashid4,,
+rashid4,rashid3,,
+rashid4,rashid5,,
+rashid5,rashid4,,
+rashid5,rashid6,,
+rashid6,rashid5,,
+rashid6,rashid7,,
+rashid7,rashid6,,
+rashid7,rashid8,,
+rashid8,rashid7,,
+rashid8,rashid9,,
+rashid9,rashid8,,
+rashid9,rashid10,,
+rashid10,rashid9,,
+rashid2,s8,,
+s8,rashid2,,
+s7,s8,,
+s8,s7,,
+s8,Gaza,,
+Gaza,s8,,
+Gaza,salah2,,
+salah2,Gaza,,
+Gaza,salah3,,
+salah3,Gaza,,
+salah3,Al Quba,,
+Al Quba,salah3,,
+rashid3,salah3,,
+salah3,rashid3,,
+salah3,salah4,,
+salah4,salah3,,
+rashid4,salah4,,
+salah4,rashid4,,
+salah4,salah5,,
+salah5,salah4,,
+salah5,s9,,
+s9,salah5,,
+s9,rashid5,,
+rashid5,s9,,
+salah5,salah6,,
+salah6,salah5,,
+s9,Al Mughraqa,,
+Al Mughraqa,s9,,
+salah5,Juhor ad Dik,,
+Juhor ad Dik,salah5,,
+salah6,Nuseirat Camp,,
+Nuseirat Camp,salah6,,
+salah6,Al Bureij,,
+Al Bureij,salah6,,
+salah6,salah7,,
+salah7,salah6,,
+salah7,salah8,,
+salah8,salah7,,
+salah8,salah9,,
+salah9,salah8,,
+salah9,Al Qarara,,
+Al Qarara,salah9,,
+Al Maghazi,salah7,,
+salah7,Al Maghazi,,
+salah7,Az Zawayda,,
+Az Zawayda,salah7,,
+Az Zawayda,rashid6,,
+rashid6,Az Zawayda,,
+salah8,Al Musaddar,,
+Al Musaddar,salah8,,
+salah9,Deir al Balah,,
+Deir al Balah,salah9,,
+Deir al Balah,rashid7,,
+rashid7,Deir al Balah,,
+salah9,Wadi as Salqa,,
+Wadi as Salqa,salah9,,
+Al Qarara,Khan Yunis,,
+Khan Yunis,Al Qarara,,
+Al Qarara,salah11,,
+salah11,Al Qarara,,
+Khan Yunis,k1,,
+k1,Khan Yunis,,
+k1,salah11,,
+salah11,k1,,
+Khan Yunis,k2,,
+k2,Khan Yunis,,
+Khan Yunis,k7,,
+k7,Khan Yunis,,
+k1,k2,,
+k2,k1,,
+salah11,salah12,,
+salah12,salah11,,
+salah11,Bani Suheila,,
+Bani Suheila,salah11,,
+Bani Suheila,Abasan al-Kabira,,
+Abasan al-Kabira,Bani Suheila,,
+Abasan al-Kabira,Khuza'a,,
+Khuza'a,Abasan al-Kabira,,
+rashid8,k8,,
+k8,rashid8,,
+k8,k7,,
+k7,k8,,
+k7,Al Mawasi,,
+Al Mawasi,k7,,
+Al Mawasi,rashid9,,
+rashid9,Al Mawasi,,
+Al Mawasi,k6,,
+k6,Al Mawasi,,
+k6,k5,,
+k5,k6,,
+k5,k4,,
+k4,k5,,
+k4,k3,,
+k3,k4,,
+salah12,salah13,,
+salah13,salah12,,
+salah13,Al Fukhkhari,,
+Al Fukhkhari,salah13,,
+k3,salah13,,
+salah13,k3,,
+salah13,salah14,,
+salah14,salah13,,
+salah14,An Nasr,,
+An Nasr,salah14,,
+salah14,salah15,,
+salah15,salah14,,
+salah15,salah16,,
+salah16,salah15,,
+k9,salah15,,
+salah15,k9,,
+k10,salah16,,
+salah16,k10,,
+salah16,Shokat as Sufi,,
+Shokat as Sufi,salah16,,
+k9,k10,,
+k10,k9,,
+k9,k3,,
+k3,k9,,
+k10,Rafah,,
+Rafah,k10,,
+k9,Rafah,,
+Rafah,k9,,
+k2,k3,,
+k3,k2,,
+Rafah,k4,,
+k4,Rafah,,
+rashid10,Rafah,,
+Rafah,rashid10,,
+Jabr,Khan Yunis,,
+Khan Yunis,Jabr,,,
